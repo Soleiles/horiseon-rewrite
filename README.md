@@ -6,8 +6,8 @@ The purpose of this challenge was to improve upon the given starter code by incl
 
 ## Usage
 
-![horiseon1](./assets/images/horiseon1.jpg)
-![horiseon1](./assets/images/horiseon2.jpg)
+![horiseon1](./assets/images/horiseon1.JPG)
+![horiseon1](./assets/images/horiseon2.JPG)
 
 <ul>
     <li>
