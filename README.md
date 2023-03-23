@@ -14,7 +14,7 @@ The purpose of this challenge was to improve upon the given starter code by incl
         <a href="https://github.com/Soleiles/horiseon-rewrite">Repository</a>
     </li>
     <li>
-        <a href="file:///C:/Users/ktain/workspace/horiseon-rewrite/index.html#social-media-marketing">Live Site</a>
+        <a href="https://soleiles.github.io/horiseon-rewrite/">Live Site</a>
     </li>
 </ul>
 
