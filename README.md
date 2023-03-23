@@ -6,8 +6,8 @@ The purpose of this challenge was to improve upon the given starter code by incl
 
 ## Usage
 
-<img src=./assets/images/horiseon1.jpg>
-<img src=./assets/images/horiseon2.jpg>
+<img src="./assets/images/horiseon1.jpg">
+<img src="./assets/images/horiseon2.jpg">
 
 <ul>
     <li>
